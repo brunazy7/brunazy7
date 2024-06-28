@@ -1,16 +1,15 @@
-## Hi there 👋
+## bem vindo ao meu perfil🙉
 
-<!--
-**brunazy7/brunazy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é BRUNAZY7
+-
+-  etou estudando no alura
+- estou me desenvolvendo na lingua javascript
+- uso esse espaço para minha organização e compartilhmento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ### voce poe entrar em vontato comigo ☑️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  s.bruna14@escola.pr.gov.br
+  
+  @brunazy7
+
+  ![}(https://media.tenor.com/QMHFxt501O0AAAAM/one-piece-sanji.gif)
