@@ -12,4 +12,4 @@ meu nome é BRUNAZY7
   
   @brunazy7
 
-  ![}(https://media.tenor.com/QMHFxt501O0AAAAM/one-piece-sanji.gif)
+  ![](https://media.tenor.com/QMHFxt501O0AAAAM/one-piece-sanji.gif)
